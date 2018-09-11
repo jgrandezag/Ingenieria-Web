@@ -109,6 +109,25 @@ button {
   position: relative;
 }
 
+.col2 {
+    align-items: stretch;
+}
+
+.col1 {
+    margin: 0;
+  }
+
+
+.footer {
+  background: #273b47;
+  padding: 50px 10px;
+}
+
+  input[type="text"],
+  input[type="email"] {
+    font-size: 16px;
+    padding: 5px;
+  }
 
 table {
   width: 100%;
@@ -132,3 +151,4 @@ table, td, th {
   border: 1px solid #273b47;
   border-collapse: collapse;
 }
+
